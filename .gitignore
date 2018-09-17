@@ -1,4 +1,7 @@
 .idea/
+.ipynb_checkpoints
+exercício\/1/ipynb_checkpoints
+exercício\/2/ipynb_checkpoints
 __pycache__/
 project/classifier/__pycache__/
 project/classifier/__pycache__/classifier.cpython-36.pyc
